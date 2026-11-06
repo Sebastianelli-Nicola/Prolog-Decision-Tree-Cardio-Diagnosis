@@ -4,7 +4,7 @@
 [![Course: Artificial Intelligence](https://img.shields.io/badge/Course-Artificial%20Intelligence-003366.svg)](#authors--academic-context)
 [![Dataset: 70k Patients](https://img.shields.io/badge/Dataset-70k%20Patients-green.svg)](#dataset--data-preprocessing-pipeline)
 [![Report: PDF](https://img.shields.io/badge/Report-PDF%20(ITA)-red.svg)](./docs/Relazione_AI_Sebastianelli.pdf)
-[![Slides: PDF](https://img.shields.io/badge/Slides-PDF%20(ITA)-orange.svg)](./docs/Presentazione_AI_Sebastianelli.pdf)
+[![Slides: PDF](https://img.shields.io/badge/Slides-PDF%20(ITA)-orange.svg)](./docs/Induzione_Alberi_Decisionali_Malattie_Cardiovascolari.pdf)
 
 Implementation from scratch of a recursive Decision Tree Induction algorithm written in **Prolog** (declarative/symbolic paradigm) applied to the diagnosis of cardiovascular diseases. 
 
@@ -14,7 +14,7 @@ Developed for the *Artificial Intelligence* (Intelligenza Artificiale) Master's 
 
 > Project Documentation:
 > * Technical Report (PDF, Italian): [Relazione_AI_Sebastianelli.pdf](./docs/Relazione_AI_Sebastianelli.pdf)
-> * Presentation Slides (PDF, Italian): [Presentazione_AI_Sebastianelli.pdf](./docs/Presentazione_AI_Sebastianelli.pdf)
+> * Presentation Slides (PDF, Italian): [Presentazione_AI_Sebastianelli.pdf](./docs/Induzione_Alberi_Decisionali_Malattie_Cardiovascolari.pdf)
 > * Source Code & Generated Trees: [src/](./src/) and [results/](./results/)
 
 ---
